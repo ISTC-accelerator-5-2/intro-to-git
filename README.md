@@ -17,3 +17,8 @@
 
 ## Steps to update your local repo
 - git pull origin master
+
+## GUI git applications
+- [Github desktop](https://desktop.github.com/) (Favorite)
+- [GIT Extensions](https://sourceforge.net/projects/gitextensions/)
+- [GIT Kraken](https://www.gitkraken.com) (Paid)
